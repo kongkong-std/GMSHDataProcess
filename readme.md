@@ -6,3 +6,8 @@ and the node numbers contained within each element. Different identifiers are al
 for boundary conditions.<br>
 Provide some simple examples of mesh partitioning, such as triangular and 
 quadrilateral mesh partitioning for a rectangular region.
+
+## Initial process of the msh file
+In the **InitialProcess** folder, there is an initial processing of the .msh file, which
+involves reading node data and element data from the .msh file, They are respectively
+named **NodeData.txt** and **ElementData.txt**.
